@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ngx-filter-pipe": "^2.1.2",
+    "ngx-lightbox": "^3.0.0",
+    "ngx-slick-carousel": "^15.0.0"
+  }
+}
